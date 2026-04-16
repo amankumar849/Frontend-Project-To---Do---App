@@ -1,4 +1,3 @@
-/* ============== Light Mode (Default) ============== */
 body {
     display: flex;
     justify-content: center;
@@ -90,7 +89,6 @@ button:hover {
     transform: scale(1.05);
 }
 
-/* List */
 ul {
     padding: 0;
     margin: 0;
@@ -100,7 +98,6 @@ ul {
     list-style: none;
 }
 
-/* List Item */
 li {
     background: #f8f9fa;
     padding: 14px 16px;
@@ -117,7 +114,6 @@ li:hover {
     transform: translateX(5px);
 }
 
-/* Delete Button */
 .delete {
     background: #e74c3c;
     color: white;
